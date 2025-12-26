@@ -12,3 +12,7 @@
 
 ![Equity Curve](ec_pnl.PNG)
 
+## Total Equity Curve
+
+![Total_Equity Curve](total_ec.PNG)
+
